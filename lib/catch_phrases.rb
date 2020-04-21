@@ -1,5 +1,5 @@
 def mario
-  phrase = "It's"
+  phrase = ""
   puts phrase
 end
 
