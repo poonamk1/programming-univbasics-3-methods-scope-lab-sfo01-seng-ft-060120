@@ -19,7 +19,9 @@ def all_phrases
   
   mario
   toadstool
-  status
+  link
+  
+  
   
 end
   
